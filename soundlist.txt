@@ -1,0 +1,8 @@
+newsound/B2A/Alien/aliencharge.ogg,13961
+newsound/B2A/Alien/aliendeath.ogg,43219
+newsound/B2A/Alien/alienhurt1.ogg,13898
+newsound/B2A/Alien/alienhurt2.ogg,14419
+newsound/B2A/Alien/alienliving1.ogg,54359
+newsound/B2A/Alien/alienliving2.ogg,21149
+newsound/B2A/Alien/alienliving3.ogg,8504
+streaming/statues.ogg,14561497
